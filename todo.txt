@@ -1,0 +1,15 @@
+Replace Logo // done
+Replace current pictures //done
+replace logos and icons //done
+contact button goes to the bottom //done
+change text opening with logo text // done
+change color schema to light blue-ish //done
+add values section before the services section //done
+move about section after values //done
+change services to features and add features //done
+rename Portfolio to The System and write up some stuff about it with pictures //done
+add pricing section after features and make them pop up //done
+Remove from footer design Studio //done
+change What Clients Say About Us section to our goals //done
+change send to emails //done
+change all the text needed
